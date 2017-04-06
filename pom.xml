@@ -17,9 +17,9 @@
 
         <!--jdbc execute sql config-->
         <jdbc.driver>org.apache.derby.jdbc.ClientDriver</jdbc.driver>
-        <jdbc.url>jdbc:derby://localhost:1527//Users/karyuu/derby/jldb</jdbc.url>
-        <jdbc.user>ssga_interactive</jdbc.user>
-        <jdbc.pass>testuser</jdbc.pass>
+        <jdbc.url>jdbc:derby://localhost:1527//Tools/derby/jldb</jdbc.url>
+        <jdbc.user>test</jdbc.user>
+        <jdbc.pass>test</jdbc.pass>
         <!--if do not use execute sql, change the value to true-->
         <jdbc.execute.skip>true</jdbc.execute.skip>
         <test.skip>false</test.skip>
